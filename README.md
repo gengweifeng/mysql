@@ -1,2 +1,2 @@
 # mysql
-mysql docker image that contains pmm-client
+mysql 5.7 docker image that contains pmm-client
